@@ -49,3 +49,27 @@ docs-proyecto-curso/
 ## Licencia
 
 MIT
+
+## Contribuir
+
+### Guía de contribución
+
+1. **Fork** el repositorio
+2. Crear una **rama** para tu feature: `git checkout -b feat/mi-feature`
+3. **Commit** tus cambios: `git commit -m "feat: agregar mi feature #101"`
+4. **Push** a la rama: `git push origin feat/mi-feature`
+5. Abrir un **Pull Request**
+
+### Proceso de desarrollo
+
+- Usar versionado semántico (SemVer)
+- Referencias a issues en commits
+- Pull Request con plantilla
+- Actualizar CHANGELOG.md
+
+## Versiones
+
+| Versión | Fecha      | Descripción              |
+|---------|------------|--------------------------|
+| v1.1.0  | 2025-09-21 | Guía de contribución     |
+| v1.0.0  | 2025-09-21 | Línea base inicial       |
